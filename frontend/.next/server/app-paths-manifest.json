@@ -1,0 +1,4 @@
+{
+  "/redirect/page": "app/redirect/page.js",
+  "/page": "app/page.js"
+}
